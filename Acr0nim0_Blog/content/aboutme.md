@@ -61,7 +61,3 @@ here they are:
 Yeah, I forgot PHP, but let's face it, who the f*ck likes PHP, let's be real
 (But yeah, I know PHP too)
 
-
-
-
-
