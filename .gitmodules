@@ -1,0 +1,12 @@
+[submodule "Acr0nim0_Blog/francosalvucci14.github.io"]
+	path = Acr0nim0_Blog/francosalvucci14.github.io
+	url = https://github.com/francosalvucci14/francosalvucci14.github.io.git
+	branch = main
+[submodule "Acr0nim0_Blog/publica"]
+	path = Acr0nim0_Blog/publica
+	url = https://github.com/francosalvucci14/francosalvucci14.github.io.git
+	branch = main
+[submodule "Acr0nim0_Blog/public"]
+	path = Acr0nim0_Blog/public
+	url = https://github.com/francosalvucci14/francosalvucci14.github.io.git
+	branch = main
