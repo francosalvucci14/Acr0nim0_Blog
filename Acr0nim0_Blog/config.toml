@@ -380,6 +380,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Facebook = true
       Whatsapp = true
       Telegram=true
+      Discord = true
     # Comment config
     # 评论系统设置
     [params.page.comment]
@@ -688,6 +689,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [languages]
   [languages.en]
     weight = 1
+    contentDir = "content/english"
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
@@ -752,6 +754,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   [languages.it]
     weight = 2
+    contentDir = "content/italian"
     languageCode = "it"
     languageName = "Italian"
     hasCJKLanguage = false
@@ -763,7 +766,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "Posts"
-        url = "/posts/it/"
+        url = "/posts"
         title = ""
       [[languages.it.menu.main]]
         weight = 5
@@ -771,7 +774,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "Su di me"
-        url = "/it/aboutme_it"
+        url = "/aboutme"
         title = ""
       [[languages.it.menu.main]]
         weight = 6
