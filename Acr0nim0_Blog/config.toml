@@ -738,7 +738,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "https://media.istockphoto.com/id/1284693553/vector/anonymous-vector-icon-incognito-sign-privacy-concept-human-head-with-glitch-face-personal.jpg?s=612x612&w=0&k=20&c=7rAGNOUEM9B_J3NYPS4j0uYPwZlX0hebFKUhG65b4vI="
+          avatarURL = "/images/avatar.jpg"
           title = ""
           subtitle = "Student of Computer Science"
           typeit = true
@@ -803,7 +803,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.it.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "https://media.istockphoto.com/id/1284693553/vector/anonymous-vector-icon-incognito-sign-privacy-concept-human-head-with-glitch-face-personal.jpg?s=612x612&w=0&k=20&c=7rAGNOUEM9B_J3NYPS4j0uYPwZlX0hebFKUhG65b4vI="
+          avatarURL = "/images/avatar.jpg"
           title = ""
           subtitle = "Studente della facoltà di Informatica"
           typeit = true
