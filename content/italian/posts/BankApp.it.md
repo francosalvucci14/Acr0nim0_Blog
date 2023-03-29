@@ -2,6 +2,7 @@
 title: "Bank App"
 date: 2023-03-10T14:44:44+01:00
 draft: false
+lightgallery: true
 tags:
     - "Project"
     - "Bank App"

@@ -2,6 +2,7 @@
 title: "Su di me"
 date: 2023-03-04T14:02:03+01:00
 draft: false
+lightgallery: true
 toc:
   enable: true
   auto: true
