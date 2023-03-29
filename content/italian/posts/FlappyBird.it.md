@@ -20,7 +20,7 @@ math: true
 ---
 
 # Idea
-
+asdasd
 # Realizzazione
 
 # Servizi
