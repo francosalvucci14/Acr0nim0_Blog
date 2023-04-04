@@ -2,6 +2,8 @@
 title: "Bank App"
 date: 2023-03-10T14:44:44+01:00
 draft: false
+featuredImage: "/images/BankApp/BankLogo.jpg"
+featuredImagePreview: "/images/BankApp/BankLogo.jpg"
 lightgallery: true
 tags:
     - "Project"
