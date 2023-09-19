@@ -769,6 +769,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         #Facebook = "xxxx"
         Telegram = "Acr0n1m0"
         Email = "francosalvucci14@gmail.com"
+        Linkedin = "ciao"
   [languages.it]
     weight = 2
     contentDir = "content/italian"
