@@ -18,7 +18,7 @@ author: "Franco Salvucci"
 ---
 # Me
 Hi, I'm Salvucci Franco.
-test
+
 I am a student of the Faculty of Computer Science at Tor Vergata University
 
 I have always been passionate about the world of programming and information technology in general (both on the software and hardware side, but more so on software :smile:)
