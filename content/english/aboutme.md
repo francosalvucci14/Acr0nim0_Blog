@@ -52,6 +52,7 @@ These are my skills:
     - NeoVim
     - <i class="fa-brands fa-git"></i> Git
     - <i class="fa-brands fa-github"></i> GitHub
+
 I'm also learning to use linux <i class="fa-brands fa-linux"></i> via the Pop!_os operating system
 # Photo of me
 

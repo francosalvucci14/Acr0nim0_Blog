@@ -52,6 +52,7 @@ Queste sono le mie competenze:
     - NeoVim
     - <i class="fa-brands fa-git"></i> Git
     - <i class="fa-brands fa-github"></i> GitHub
+
 Sto anche imparando ad usare linux <i class="fa-brands fa-linux"></i> tramite il sistema operativo Pop!_os
 
 # Foto mia
