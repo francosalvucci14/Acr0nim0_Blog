@@ -1,5 +1,5 @@
 ---
-title: "Progetto DataBase"
+title: "DataBase Project"
 date: 2023-09-27T10:30:14+02:00
 draft: false
 featuredImagePreview: "/images/DB/SchemaFinale.jpg"
