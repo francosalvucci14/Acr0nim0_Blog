@@ -765,6 +765,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       [languages.en.params.social]
         GitHub = "francosalvucci14"
         Twitter = "Salvucci2Franco"
+	X="CIAOCIAO"
         Instagram = "franco.salvucci.9/"
         #Facebook = "xxxx"
         Telegram = "Acr0n1m0"
