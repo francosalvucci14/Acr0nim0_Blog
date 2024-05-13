@@ -756,7 +756,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/images/avatar.jpg"
+          avatarURL = "/images/hashcracker.png"
           title = ""
           subtitle = "Student of Computer Science"
           typeit = true
@@ -822,7 +822,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.it.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/images/avatar.jpg"
+          avatarURL = "/images/hashcracker.png"
           title = ""
           subtitle = "Studente della facoltà di Informatica"
           typeit = true
